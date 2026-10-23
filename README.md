@@ -14,7 +14,7 @@ Binary classification: predict whether an airline passenger is satisfied, using 
 Data is synthetic and generated from a real airline passenger satisfaction dataset. It is not included in this repo (see Kaggle competition page).
 
 ## Approach
-1. Clean column names, convert categorical columns to `category` dtype
+1. Clean column names, convert categorical columns to `category` dtype 
 2. LightGBM baseline with early stopping
 3. 5-fold Stratified CV, test predictions averaged across folds
 4. Feature engineering: total delay, rating mean/sum/min/max/std, count of low and high ratings
