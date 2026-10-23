@@ -3,7 +3,7 @@
 Solution for the Kaggle [Playground Series S6E10: Predicting Airline Satisfaction](https://www.kaggle.com/competitions/playground-series-s6e10).
 
 ## Problem
-Binary classification: predict whether an airline passenger is satisfied, using flight details, passenger info and 13 service ratings. Metric: **ROC AUC** on predicted probabilities.
+Binary classification: predict whether an airline passenger is satisfied, using flight details, passenger info and 13 service ratings. Metric: **ROC AUC** on predicted probabilities. 
 
 ## Data
 - `train.csv`: 699,635 rows, 23 columns
