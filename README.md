@@ -9,7 +9,7 @@ Binary classification: predict whether an airline passenger is satisfied, using 
 - `train.csv`: 699,635 rows, 23 columns
 - `test.csv`: 299,844 rows
 - Target: `satisfaction` (44% satisfied, 56% not satisfied)
-- Only `Arrival Delay in Minutes` has missing values (292)
+- Only `Arrival Delay in Minutes` has missing values (292) 
 
 Data is synthetic and generated from a real airline passenger satisfaction dataset. It is not included in this repo (see Kaggle competition page).
 
