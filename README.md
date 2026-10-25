@@ -6,7 +6,7 @@ Solution for the Kaggle [Playground Series S6E10: Predicting Airline Satisfactio
 Binary classification: predict whether an airline passenger is satisfied, using flight details, passenger info and 13 service ratings. Metric: **ROC AUC** on predicted probabilities. 
 
 ## Data
-- `train.csv`: 699,635 rows, 23 columns
+- `train.csv`: 699,635 rows, 23 columns 
 - `test.csv`: 299,844 rows
 - Target: `satisfaction` (44% satisfied, 56% not satisfied)
 - Only `Arrival Delay in Minutes` has missing values (292) 
