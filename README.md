@@ -18,7 +18,7 @@ Data is synthetic and generated from a real airline passenger satisfaction datas
 2. LightGBM baseline with early stopping
 3. 5-fold Stratified CV, test predictions averaged across folds
 4. Feature engineering: total delay, rating mean/sum/min/max/std, count of low and high ratings
-5. (Planned) CatBoost + XGBoost, ensemble, original dataset as extra data
+5. (Planned) CatBoost + XGBoost, ensemble, original dataset as extra data 
 
 ## Results
 
